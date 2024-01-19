@@ -1,0 +1,52 @@
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 4px;
+  }
+  .containerx{
+    background-image: url('../../../assets/images/header-bg.jpg');
+    margin-top: 0%;
+    height: 750px;
+  }
+  .navbar {
+    /* Change this to your desired background color */
+    color: white; /* Change this to your desired text color */
+  }
+  
+  /* Navbar brand link styles */
+  .navbar-brand {
+    color: aliceblue; /* Brand text color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .navbar-brand:hover {
+    color: #fff; /* Change brand text color on hover */
+  }
+  
+  /* Navbar toggler icon color */
+  .navbar-toggler {
+    border-color: white; /* Toggle button color */
+  }
+  
+  .navbar-toggler-icon {
+    color: white; /* Toggle icon color */
+  }
+  
+  /* Navbar links styles */
+  .navbar-nav li {
+    padding: 8px 5px; /* Adjust padding as needed */
+  }
+  
+  .navbar-nav li a {
+    color: white; /* Navbar link text color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .navbar-nav li a:hover {
+    color: #fff; /* Change navbar link text color on hover */
+  }
+  
+  /* Active link styles */
+  .navbar-nav li.active a {
+    color: #fff; /* Change color of active link */
+  }
